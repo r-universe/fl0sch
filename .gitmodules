@@ -3,3 +3,48 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "highs"]
+	path = highs
+	url = https://github.com/cran/highs
+	shallow = true
+	registered = true
+[submodule "lpSolveAPI"]
+	path = lpSolveAPI
+	url = https://github.com/cran/lpSolveAPI
+	shallow = true
+	registered = true
+[submodule "NLPclient"]
+	path = NLPclient
+	url = https://github.com/cran/NLPclient
+	shallow = true
+	registered = true
+[submodule "pandocfilters"]
+	path = pandocfilters
+	url = https://github.com/cran/pandocfilters
+	shallow = true
+	registered = true
+[submodule "pdfminer"]
+	path = pdfminer
+	url = https://github.com/cran/pdfminer
+	shallow = true
+	registered = true
+[submodule "ROI.models.globalOptTests"]
+	path = ROI.models.globalOptTests
+	url = https://github.com/cran/ROI.models.globalOptTests
+	shallow = true
+	registered = true
+[submodule "ROI.models.netlib"]
+	path = ROI.models.netlib
+	url = https://github.com/cran/ROI.models.netlib
+	shallow = true
+	registered = true
+[submodule "ROI.plugin.highs"]
+	path = ROI.plugin.highs
+	url = https://github.com/cran/ROI.plugin.highs
+	shallow = true
+	registered = true
+[submodule "xmlrpc2"]
+	path = xmlrpc2
+	url = https://github.com/cran/xmlrpc2
+	shallow = true
+	registered = true
